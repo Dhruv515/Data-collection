@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "6288a84c0b21af8b218bfd1e"
+  },
+  "uname": "dhruv",
+  "phone": "7016628222",
+  "email": "rakhundedhruv@214",
+  "age": "19"
+},{
+  "_id": {
+    "$oid": "6288a8680b21af8b218bfd20"
+  },
+  "uname": "DHRUV",
+  "phone": "7016628222",
+  "email": "rakhundedhruv@214",
+  "age": "19"
+},{
+  "_id": {
+    "$oid": "6288a8e00b21af8b218bfd22"
+  },
+  "uname": "ravish",
+  "phone": "6869969080",
+  "email": "rakhuv@214",
+  "age": "10"
+},{
+  "_id": {
+    "$oid": "6288ac720b21af8b218bfd24"
+  },
+  "uname": "hjkn",
+  "phone": "6869969080",
+  "email": "jggk@gmail.com",
+  "age": "76"
+},{
+  "_id": {
+    "$oid": "6289b9e5a91a8b5369e5d873"
+  },
+  "uname": "Ratan",
+  "phone": "1212121212",
+  "email": "ratan@gmail.com",
+  "age": "19"
+},{
+  "_id": {
+    "$oid": "6289c045ae37feee7ba862de"
+  },
+  "uname": "123",
+  "phone": "6869969080",
+  "email": "jggk@gmail.com",
+  "age": "76"
+},{
+  "_id": {
+    "$oid": "6289c15e9a440a38b422cd50"
+  },
+  "uname": "ass",
+  "phone": "6869969080",
+  "email": "jggk@gmail.com",
+  "age": "799"
+},{
+  "_id": {
+    "$oid": "6289c16a9a440a38b422cd52"
+  },
+  "uname": "ass",
+  "phone": "6869969080",
+  "email": "jggk@gmail.com",
+  "age": "7990"
+},{
+  "_id": {
+    "$oid": "6289c37ccd9a587b12a182eb"
+  },
+  "uname": "ass",
+  "phone": "6869969080",
+  "age": "7990"
+},{
+  "_id": {
+    "$oid": "6289c3cccd9a587b12a182ed"
+  },
+  "uname": "abc",
+  "phone": "6869969080",
+  "city": "vadodara",
+  "age": "19"
+},{
+  "_id": {
+    "$oid": "6289d03acd9a587b12a182ef"
+  }
+},{
+  "_id": {
+    "$oid": "6289d061cd9a587b12a182f1"
+  }
+},{
+  "_id": {
+    "$oid": "6289d22bb84cb0037391e396"
+  },
+  "uname": "jgk",
+  "phone": "6869969080",
+  "city": "vadodara",
+  "age": "76"
+},{
+  "_id": {
+    "$oid": "628a1b07356fd17902610e24"
+  },
+  "uname": "harry",
+  "phone": "7878787878",
+  "city": "westbangal",
+  "age": "25"
+},{
+  "_id": {
+    "$oid": "628a28bd3d436ebab81cecbf"
+  },
+  "uname": "jgk",
+  "phone": "6869969080",
+  "city": "vadodara",
+  "age": "76"
+},{
+  "_id": {
+    "$oid": "628a297e3d436ebab81cecc1"
+  },
+  "uname": "dhruv",
+  "phone": "6869969080",
+  "city": "vadodara",
+  "age": "76"
+},{
+  "_id": {
+    "$oid": "628a6ddc4398e2988063032c"
+  },
+  "uname": "jgk",
+  "phone": "6869969080",
+  "city": "vadodara",
+  "age": "76"
+}]
